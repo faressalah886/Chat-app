@@ -4,25 +4,24 @@ A real-time chat application built using **Flutter** and **Firebase**, designed 
 
 ---
 
-## ✨ Features
-
+## 🚀 Features
 - 🔐 Firebase Authentication (Email & Password)
-- 📬 Real-time messaging using **Cloud Firestore**
-- 🧠 State management using **Provider**
-- 🌐 Fully responsive UI (works on both Android and iOS)
-- 📦 Clean architecture and well-structured codebase
-- 🚀 Smooth navigation and optimized performance
+- 💬 Real-time messaging using **Cloud Firestore**
+- 📲 Fully responsive UI (works on both Android and iOS)
+- 🧠 State management via **Provider**
+- 📁 Clean architecture and well-structured codebase
+- ⚡ Smooth navigation and optimized performance
 
 ---
 
 ## 📸 Screenshots
 
-_(Add some screenshots here later if available, to make it visually appealing)_
+### 🔐 Login Screen
+![Login Screen](assets/images/Screenshot.png)
 
 ---
 
 ## 🛠️ Technologies Used
-
 - Flutter & Dart
 - Firebase Authentication
 - Cloud Firestore
@@ -34,6 +33,7 @@ _(Add some screenshots here later if available, to make it visually appealing)_
 ## 📁 Project Structure
 
 ```
+<pre>
 lib/
 ├── models/
 ├── screens/
@@ -41,6 +41,7 @@ lib/
 ├── widgets/
 ├── utils/
 └── main.dart
+</pre>
 ```
 
 ⸻
