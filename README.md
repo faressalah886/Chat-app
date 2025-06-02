@@ -17,7 +17,7 @@ A real-time chat application built using **Flutter** and **Firebase**, designed 
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-![Login Screen](assets/images/Screenshot.png)
+![App Screenshot](lib/assets/images/Screenshot.png)
 
 ---
 
